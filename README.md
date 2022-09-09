@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I made a simple HTML homepage that links to three pages which display cooking recipes. I have used basic HTML skills, including linking pages, displaying images, using paragraphs and headings and using ordered and unordered lists.
